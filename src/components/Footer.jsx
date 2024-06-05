@@ -152,7 +152,7 @@ function Footer() {
           >
             <img
               className="md:w-[25%] w-[25%]"
-              src="./src/assets/images/linkedin.png"
+              src="/assets/images/linkedin.png"
               alt=""
             />
           </a>
@@ -164,7 +164,7 @@ function Footer() {
           >
             <img
               className="md:w-[25%] w-[25%]"
-              src="./src/assets/images/github.png"
+              src="/assets/images/github.png"
               alt=""
             />
           </a>
@@ -177,7 +177,7 @@ function Footer() {
           >
             <img
               className="md:w-[25%] w-[25%]"
-              src="./src/assets/images/instagram.png"
+              src="/assets/images/instagram.png"
               alt=""
             />
           </a>
@@ -189,7 +189,7 @@ function Footer() {
           >
             <img
               className="md:md:w-[25%] w-[25%]"
-              src="./src/assets/images/facebook.png"
+              src="/assets/images/facebook.png"
               alt=""
             />
           </a>

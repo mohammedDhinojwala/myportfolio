@@ -77,7 +77,7 @@ function Featured() {
                 </div>
               </div>
               <div className="card w-[100%] h-[100%] rounded-2xl bg-[#FFFFFF] flex justify-center  items-center mb-10 md:w-full md:h-full  ">
-                <img className="  " src="./src/assets/images/newsapp.jpg" />
+                <img className="  " src="/assets/images/newsapp.jpg" />
               </div>
             </motion.div>
 
@@ -109,7 +109,7 @@ function Featured() {
                 </div>
               </div>
               <div className="w-[100%] h-[100%]  rounded-2xl cursor-pointer flex justify-center items-center overflow-hidden bg-[#F8F8F8] card  ">
-                <img className=" " src="./src/assets/images/apple.jpg" alt="" />
+                <img className=" " src="/assets/images/apple.jpg" alt="" />
               </div>
             </motion.div>
           </div>
@@ -255,7 +255,7 @@ function Featured() {
                 </div>
               </div>
               <div className="card w-[100%] h-[100%] rounded-2xl bg-[#FFFFFF] flex justify-center  items-center mb-10 md:w-full md:h-full  ">
-                <img className="  " src="./src/assets/images/newsapp.jpg" />
+                <img className="  " src="/assets/images/newsapp.jpg" />
               </div>
             </motion.div>
 
@@ -287,7 +287,7 @@ function Featured() {
                 </div>
               </div>
               <div className="w-[100%] h-[100%]  rounded-2xl cursor-pointer flex justify-center items-center overflow-hidden bg-[#F8F8F8] card  ">
-                <img className=" " src="./src/assets/images/apple.jpg" alt="" />
+                <img className=" " src="/assets/images/apple.jpg" alt="" />
               </div>
             </motion.div>
           </div>

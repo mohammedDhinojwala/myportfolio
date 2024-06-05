@@ -45,7 +45,7 @@ function About1() {
             >
               <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
-                src="./src/assets/images/html.png"
+                src="/assets/images/html.png"
                 alt=""
               />
               <label
@@ -64,7 +64,7 @@ function About1() {
             >
               <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
-                src="./src/assets/images/social.png"
+                src="/assets/images/social.png"
                 alt=""
               />
               <label
@@ -83,7 +83,7 @@ function About1() {
             >
               <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
-                src="./src/assets/images/js.png"
+                src="/assets/images/js.png"
                 alt=""
               />
               <label
@@ -102,7 +102,7 @@ function About1() {
             >
               <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
-                src="./src/assets/images/atom.png"
+                src="/assets/images/atom.png"
                 alt=""
               />
               <label
@@ -121,7 +121,7 @@ function About1() {
             >
               <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
-                src="./src/assets/images/database.png"
+                src="/assets/images/database.png"
                 alt=""
               />
               <label
@@ -140,7 +140,7 @@ function About1() {
             >
               <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
-                src="./src/assets/images/nodejs.png"
+                src="/assets/images/nodejs.png"
                 alt=""
               />
               <label
@@ -159,7 +159,7 @@ function About1() {
             >
               <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
-                src="./src/assets/images/github.png"
+                src="/assets/images/github.png"
                 alt=""
               />
               <label

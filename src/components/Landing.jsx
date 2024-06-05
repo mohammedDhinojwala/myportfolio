@@ -35,7 +35,7 @@ function Landing() {
       >
         <img
           className="w-full  h-full object-cover"
-          src="./src/assets/images/myphoto.jpg"
+          src="/assets/images/myphoto.jpg"
           alt=""
         />
       </div>
