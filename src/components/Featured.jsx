@@ -61,7 +61,7 @@ function Featured() {
               "
               >
                 <div className="flex ">
-                  {"NEWS-MOB".split("").map((item, index) => (
+                  {"NEWS-MOB".split("").map((item, index, l) => (
                     <motion.span
                       initial={{ y: "100%" }}
                       animate={cards[0]}
@@ -69,6 +69,7 @@ function Featured() {
                         ease: [0.22, 1, 0.36, 1],
                         delay: index * 0.01,
                       }}
+                      key={l}
                       className="inline-block "
                     >
                       {item}
@@ -93,7 +94,7 @@ function Featured() {
               "
               >
                 <div className="flex overflow-hidden">
-                  {"APPLE-CLONE".split("").map((item, index) => (
+                  {"APPLE-CLONE".split("").map((item, index,f) => (
                     <motion.span
                       initial={{ y: "100%" }}
                       animate={cards[1]}
@@ -101,6 +102,7 @@ function Featured() {
                         ease: [0.22, 1, 0.36, 1],
                         delay: index * 0.01,
                       }}
+                      key={f}
                       className="inline-block "
                     >
                       {item}
@@ -239,15 +241,17 @@ function Featured() {
               "
               >
                 <div className="flex ">
-                  {"pintrest".split("").map((item, index) => (
+                  {"pintrest".split("").map((item, index,k) => (
                     <motion.span
+                    
                       initial={{ y: "100%" }}
                       animate={cards[0]}
                       transition={{
                         ease: [0.22, 1, 0.36, 1],
                         delay: index * 0.01,
                       }}
-                      className="inline-block "
+                      key={k}
+                      className="inline-block  "
                     >
                       {item}
                     </motion.span>
@@ -271,7 +275,7 @@ function Featured() {
               "
               >
                 <div className="flex overflow-hidden">
-                  {"portfolio".split("").map((item, index) => (
+                  {"portfolio".split("").map((item, index,x) => (
                     <motion.span
                       initial={{ y: "100%" }}
                       animate={cards[1]}
@@ -279,6 +283,7 @@ function Featured() {
                         ease: [0.22, 1, 0.36, 1],
                         delay: index * 0.01,
                       }}
+                      key={x}
                       className="inline-block "
                     >
                       {item}

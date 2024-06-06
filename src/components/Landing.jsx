@@ -31,13 +31,14 @@ function Landing() {
       md:w-[50%] md:mr-5 md:h-[80vh]
       xl:w-[30%] xl:ml-[23vh] xl:h-[80vh] xl:mb-5 xl:mt-20
       lg:ml-96
+      bg-[url('/assets/images/myphoto.jpg')] bg-cover
       "
       >
-        <img
+        {/* <img
           className="w-full  h-full object-cover"
-          src="/assets/images/myphoto.jpg"
+          src="../assets/images/myphoto.jpg"
           alt=""
-        />
+        /> */}
       </div>
     </div>
   );
