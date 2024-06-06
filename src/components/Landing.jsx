@@ -11,7 +11,7 @@ function Landing() {
      
       "
       >
-        {["FRONT-END ", "<CODER>", "MERN-STACK"].map((item, index) => {
+        {["naruto ", "<CODER>", "MERN-STACK"].map((item, index) => {
           return (
             <div key={index} className="masker  ">
               <h1
