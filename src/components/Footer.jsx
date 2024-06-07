@@ -147,51 +147,51 @@ function Footer() {
           <a
             href=""
             className="md:flex md:justify-center md:items-center md:px-1 md:w-[22vh]  md:h-[10vh] border-[1px] border-black   bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-            p-2 w-[20vh] flex justify-center
+            p-2 w-[20vh] flex justify-center   bg-[url('/assets/images/linkedin.jpg')] bg-cover
           "
           >
-            <img
+            {/* <img
               className="md:w-[25%] w-[25%]"
               src="/assets/images/linkedin.png"
               alt=""
-            />
+            /> */}
           </a>
           <a
             href=""
             className="md:flex md:justify-center md:items-center md:px-1  md:w-[22vh]  md:h-[10vh] border-[1px] border-black  bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-           p-2  w-[20vh] flex justify-center
+           p-2  w-[20vh] flex justify-center   bg-[url('/assets/images/github.jpg')] bg-cover
           "
           >
-            <img
+            {/* <img
               className="md:w-[25%] w-[25%]"
               src="/assets/images/github.png"
               alt=""
-            />
+            /> */}
           </a>
 
           <a
             href=""
             className="md:w-[22vh]  md:h-[10vh] md:flex md:justify-center md:items-center md:px-1 border-[1px] border-black   bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-           p-2 w-[20vh] flex justify-center
+           p-2 w-[20vh] flex justify-center   bg-[url('/assets/images/instagram.jpg')] bg-cover
           "
           >
-            <img
+            {/* <img
               className="md:w-[25%] w-[25%]"
               src="/assets/images/instagram.png"
               alt=""
-            />
+            /> */}
           </a>
           <a
             href=""
             className="md:flex md:justify-center md:items-center md:px-1  md:w-[22vh]  md:h-[10vh] border-[1px] border-black  bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-           p-2  w-[20vh] flex justify-center
+           p-2  w-[20vh] flex justify-center   bg-[url('/assets/images/facebook.jpg')] bg-cover
           "
           >
-            <img
+            {/* <img
               className="md:md:w-[25%] w-[25%]"
               src="/assets/images/facebook.png"
               alt=""
-            />
+            /> */}
           </a>
         </div>
       </div>

@@ -27,7 +27,7 @@ function Eyes() {
         data-scroll
         data-scroll-speed="-.6"
         className='relative  w-[97%] h-1/2  left-[1%] top-48
-      md:w-full md:h-full  bg-[url("./src/assets/images/eyes-bg.jpg")]  md:bg-[length:80em] bg-[length:58em] bg-center  bg-no-repeat '
+      md:w-full md:h-full  bg-[url("/assets/images/eyes-bg.jpg")]  md:bg-[length:80em] bg-[length:58em] bg-center  bg-no-repeat '
       >
         {/* <div className="absolute flex gap-7 top-[10em] left-[1.5em] h-56 
           md:left-[34em]

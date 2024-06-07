@@ -41,13 +41,17 @@ function About1() {
           >
             <div
               className="md:w-[10%]  flex flex-col justify-center items-center
-          w-[40%] p-2"
+          w-[40%] p-2
+          bg-[url('/assets/images/html.jpg')] bg-cover
+          "
             >
-              <img
-                className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
+              {/* <img
+                className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black
+                bg-[url('/assets/images/.jpg')] bg-cover
+                "
                 src="/assets/images/html.png"
                 alt=""
-              />
+              /> */}
               <label
                 className=" md:text-xl
           text-lg text-center 
@@ -59,14 +63,14 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2
+          w-[40%] p-2   bg-[url('/assets/images/social.jpg')] bg-cover
           "
             >
-              <img
+              {/* <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
                 src="/assets/images/social.png"
                 alt=""
-              />
+              /> */}
               <label
                 className=" md:text-xl
           text-lg text-center 
@@ -78,14 +82,14 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2
+          w-[40%] p-2   bg-[url('/assets/images/js.jpg')] bg-cover
           "
             >
-              <img
+              {/* <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
                 src="/assets/images/js.png"
                 alt=""
-              />
+              /> */}
               <label
                 className=" md:text-xl
           text-lg text-center 
@@ -97,14 +101,14 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2
+          w-[40%] p-2   bg-[url('/assets/images/atom.jpg')] bg-cover
           "
             >
-              <img
+              {/* <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
                 src="/assets/images/atom.png"
                 alt=""
-              />
+              /> */}
               <label
                 className=" md:text-xl
           text-lg text-center 
@@ -116,14 +120,14 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2
+          w-[40%] p-2   bg-[url('/assets/images/database.jpg')] bg-cover
           "
             >
-              <img
+              {/* <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
                 src="/assets/images/database.png"
                 alt=""
-              />
+              /> */}
               <label
                 className=" md:text-xl
           text-lg text-center 
@@ -135,14 +139,14 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2
+          w-[40%] p-2   bg-[url('/assets/images/nodejs.jpg')] bg-cover
           "
             >
-              <img
+              {/* <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
                 src="/assets/images/nodejs.png"
                 alt=""
-              />
+              /> */}
               <label
                 className=" md:text-xl
           text-lg text-center 
@@ -154,14 +158,14 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2
+          w-[40%] p-2   bg-[url('/assets/images/github.jpg')] bg-cover
           "
             >
-              <img
+              {/* <img
                 className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
                 src="/assets/images/github.png"
                 alt=""
-              />
+              /> */}
               <label
                 className=" md:text-xl
           text-lg text-center 
