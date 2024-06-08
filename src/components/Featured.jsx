@@ -55,7 +55,7 @@ function Featured() {
             "
             >
               <div
-                className="absolute flex overflow-hidden left-[10%] top-[32vh] text-black z-[9] font-semibold text-8xl leading-none tracking-tighter
+                className="absolute flex overflow-hidden left-[9.6%] top-[2vh] text-black z-[9] font-semibold text-8xl leading-none tracking-tighter
               
              
               "
@@ -77,7 +77,7 @@ function Featured() {
                   ))}
                 </div>
               </div>
-              <div className="card w-[100%] h-[100%] rounded-2xl bg-[#FFFFFF] flex justify-center  items-center mb-10 md:w-full md:h-full bg-[url('/assets/images/newsapp.jpg')] bg-cover ">
+              <div className="card w-[100%] h-[100%] rounded-2xl bg-[#FFFFFF] flex justify-center  items-center mb-10 md:w-full md:h-full bg-[url('/assets/images/newsapp.jpg')] bg-auto bg-center bg-no-repeat">
                 {/* <img className="  " src="/assets/images/newsapp.jpg" /> */}
               </div>
             </motion.div>
@@ -89,7 +89,7 @@ function Featured() {
             h-[40vh] w-[100%] "
             >
               <div
-                className="absolute flex justify-center items-center overflow-hidden right-[15%] top-[33vh] text-opacity-70 text-black z-[9] font-semibold text-7xl leading-none tracking-tighter
+                className="absolute flex justify-center items-center overflow-hidden left-[2.9%] top-[2vh] text-8xl text-black z-[9] font-semibold  leading-none tracking-tighter
               
               "
               >
@@ -110,7 +110,7 @@ function Featured() {
                   ))}
                 </div>
               </div>
-              <div className="w-[100%] h-[100%]  rounded-2xl cursor-pointer flex justify-center items-center overflow-hidden bg-[#F8F8F8] card  bg-[url('/assets/images/apple.jpg')] bg-cover  ">
+              <div className="w-[100%] h-[100%]  rounded-2xl cursor-pointer flex justify-center items-center overflow-hidden bg-[#F8F8F8] card  bg-[url('/assets/images/apple.jpg')] bg-cover bg-center  ">
                 {/* <img className=" " src="/assets/images/apple.jpg" alt="" /> */}
               </div>
             </motion.div>
@@ -171,6 +171,15 @@ function Featured() {
               "
               >
                 Bootstrap
+              </span>
+
+              <span
+                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+              w-[100%] p-2 
+              
+              "
+              >
+               News API
               </span>
             </div>
 
@@ -235,7 +244,7 @@ function Featured() {
             "
             >
               <div
-                className="absolute flex overflow-hidden left-[10%] top-[32vh] text-black z-[9] font-semibold text-8xl leading-none tracking-tighter
+                className="absolute flex overflow-hidden left-[25%] top-[1vh] text-black z-[9] font-semibold text-8xl leading-none tracking-tighter
               
              
               "
@@ -270,7 +279,7 @@ function Featured() {
             h-[40vh] w-[100%] "
             >
               <div
-                className="absolute flex justify-center items-center overflow-hidden right-[15%] top-[33vh] text-opacity-70 text-black z-[9] font-semibold text-7xl leading-none tracking-tighter
+                className="absolute flex justify-center items-center overflow-hidden right-[22%] top-[2 vh]  text-black z-[9] font-semibold text-8xl leading-none tracking-tighter
               
               "
               >
@@ -353,6 +362,36 @@ function Featured() {
               >
                 Bootstrap
               </span>
+
+              <span
+                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+              w-[100%] p-2 
+              
+              "
+              >
+                Express js
+              </span>
+
+              <span
+                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+              w-[100%] p-2 
+              
+              "
+              >
+                multer js
+              </span>
+
+              <span
+                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+              w-[100%] p-2 
+              
+              "
+              >
+                Mongo DB
+              </span>
+              
+              
+
             </div>
 
             <div
@@ -390,6 +429,20 @@ function Featured() {
              w-[100%] p-2 "
               >
                 Bootstrap
+              </span>
+
+              <span
+                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+             w-[100%] p-2 "
+              >
+                motion js
+              </span>
+
+              <span
+                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+             w-[100%] p-2 "
+              >
+                tailwaind
               </span>
             </div>
           </div>

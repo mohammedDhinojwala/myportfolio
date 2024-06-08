@@ -147,9 +147,10 @@ function Footer() {
           <a
             href=""
             className="md:flex md:justify-center md:items-center md:px-1 md:w-[22vh]  md:h-[10vh] border-[1px] border-black   bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-            p-2 w-[20vh] flex justify-center   bg-[url('/assets/images/linkedin.jpg')] bg-cover
+            p-2 w-[20vh] flex justify-center 
           "
           >
+            <div className="w-[85%] h-[85%]  bg-[url('/assets/images/linkedin.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
             {/* <img
               className="md:w-[25%] w-[25%]"
               src="/assets/images/linkedin.png"
@@ -162,11 +163,8 @@ function Footer() {
            p-2  w-[20vh] flex justify-center   bg-[url('/assets/images/github.jpg')] bg-cover
           "
           >
-            {/* <img
-              className="md:w-[25%] w-[25%]"
-              src="/assets/images/github.png"
-              alt=""
-            /> */}
+                       <div className="w-[85%] h-[85%]  bg-[url('/assets/images/github.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
+
           </a>
 
           <a
@@ -175,23 +173,17 @@ function Footer() {
            p-2 w-[20vh] flex justify-center   bg-[url('/assets/images/instagram.jpg')] bg-cover
           "
           >
-            {/* <img
-              className="md:w-[25%] w-[25%]"
-              src="/assets/images/instagram.png"
-              alt=""
-            /> */}
+                        <div className="w-[85%] h-[85%]  bg-[url('/assets/images/instagram.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
+
           </a>
           <a
             href=""
             className="md:flex md:justify-center md:items-center md:px-1  md:w-[22vh]  md:h-[10vh] border-[1px] border-black  bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-           p-2  w-[20vh] flex justify-center   bg-[url('/assets/images/facebook.jpg')] bg-cover
+           p-2  w-[20vh] flex justify-center   
           "
           >
-            {/* <img
-              className="md:md:w-[25%] w-[25%]"
-              src="/assets/images/facebook.png"
-              alt=""
-            /> */}
+                        <div className="w-[85%] h-[85%]  bg-[url('/assets/images/facebook.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
+
           </a>
         </div>
       </div>
