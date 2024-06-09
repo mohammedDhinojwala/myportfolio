@@ -159,8 +159,8 @@ function Footer() {
               alt=""
             /> */}
           </a>
-          <a onClick={<redirect to="https://github.com/mohammedDhinojwala"/>}
-            href=""
+          <a 
+            href="https://github.com/mohammedDhinojwala"
             className="md:flex md:justify-center md:items-center md:px-1  md:w-[22vh]  md:h-[10vh] border-[1px] border-black  bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
            p-2  w-[20vh] flex justify-center   bg-[url('/assets/images/github.jpg')] bg-cover
           "
@@ -169,8 +169,8 @@ function Footer() {
 
           </a>
 
-          <a onClick={<redirect to="https://www.instagram.com/_mxhammxd_10/?next=%2F"/>}
-            href=""
+          <a
+            href="https://www.instagram.com/_mxhammxd_10/?next=%2F"
             className="md:w-[22vh]  md:h-[10vh] md:flex md:justify-center md:items-center md:px-1 border-[1px] border-black   bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
            p-2 w-[20vh] flex justify-center   bg-[url('/assets/images/instagram.jpg')] bg-cover
           "
@@ -178,8 +178,8 @@ function Footer() {
                         <div className="w-[85%] h-[85%]  bg-[url('/assets/images/instagram.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
 
           </a>
-          <a onClick={<redirect to="https://www.facebook.com/mohammed.a.dhinojwala"/>}
-            href=""
+          <a
+            href="https://www.facebook.com/mohammed.a.dhinojwala"
             className="md:flex md:justify-center md:items-center md:px-1  md:w-[22vh]  md:h-[10vh] border-[1px] border-black  bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
            p-2  w-[20vh] flex justify-center   
           "
