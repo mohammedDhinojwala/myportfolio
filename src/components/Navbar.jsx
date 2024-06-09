@@ -11,7 +11,11 @@ function Navbar() {
       items-right w-[100%] h-30
     lg:w-full lg:h-[11%] lg:px-20 lg:py-8 fixed  z-[999] font-['NeueMontreal-Regular (1)'] text-black lg:flex lg:justify-between lg:items-center
      md:flex md:flex-row
-     h-full w-full bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-10 
+     w-full 
+     
+    bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-10 
+
+    rounded-b-lg
 
     "
     >

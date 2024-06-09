@@ -77,9 +77,10 @@ function Featured() {
                   ))}
                 </div>
               </div>
-              <div className="card w-[100%] h-[100%] rounded-2xl bg-[#FFFFFF] flex justify-center  items-center mb-10 md:w-full md:h-full bg-[url('/assets/images/newsapp.jpg')] bg-auto bg-center bg-no-repeat">
+              <a href="https://github.com/mohammedDhinojwala/NEWAPP/" 
+              className="card w-[100%] h-[100%] rounded-2xl bg-[#ffffff] flex justify-center  items-center mb-10 md:w-full md:h-full bg-[url('/assets/images/newsapp.jpg')] bg-auto bg-center bg-no-repeat">
                 {/* <img className="  " src="/assets/images/newsapp.jpg" /> */}
-              </div>
+              </a>
             </motion.div>
 
             <motion.div
@@ -110,9 +111,10 @@ function Featured() {
                   ))}
                 </div>
               </div>
-              <div className="w-[100%] h-[100%]  rounded-2xl cursor-pointer flex justify-center items-center overflow-hidden bg-[#F8F8F8] card  bg-[url('/assets/images/apple.jpg')] bg-cover bg-center  ">
+              <a href="https://github.com/mohammedDhinojwala/apple-clone" 
+               className="w-[100%] h-[100%]  rounded-2xl cursor-pointer flex justify-center items-center overflow-hidden bg-[#F8F8F8] card  bg-[url('/assets/images/apple.jpg')] bg-cover bg-center  ">
                 {/* <img className=" " src="/assets/images/apple.jpg" alt="" /> */}
-              </div>
+              </a>
             </motion.div>
           </div>
           <div
@@ -267,9 +269,10 @@ function Featured() {
                   ))}
                 </div>
               </div>
-              <div className="card w-[100%] h-[100%] rounded-2xl overflow-y-hidden bg-[#FFFFFF] flex justify-center  items-center mb-10 md:w-full md:h-full  bg-[url('/assets/images/pintrest1.jpg')] bg-cover ">
+              <a href="https://www.linkedin.com/in/mohammeddhinojwala/" 
+               className="card w-[100%] h-[100%] rounded-2xl overflow-y-hidden bg-[#FFFFFF] flex justify-center  items-center mb-10 md:w-full md:h-full  bg-[url('/assets/images/pintrest1.jpg')] bg-cover ">
                 {/* <img className=" w-[100%] overflow-y-hidden  " src="/assets/images/pintrest1.jpg" /> */}
-              </div>
+              </a>
             </motion.div>
 
             <motion.div
@@ -300,9 +303,10 @@ function Featured() {
                   ))}
                 </div>
               </div>
-              <div className="w-[100%] h-[100%]  rounded-2xl cursor-pointer flex justify-center items-center overflow-hidden bg-[#F8F8F8] card  bg-[url('/assets/images/finalportfolio.png')] bg-cover ">
+              <a href="https://github.com/mohammedDhinojwala/myportfolio"
+                className="w-[100%] h-[100%]  rounded-2xl cursor-pointer flex justify-center items-center overflow-hidden bg-[#F8F8F8] card  bg-[url('/assets/images/finalportfolio.png')] bg-cover ">
                 {/* <img className=" w-[100%] " src="/assets/images/finalportfolio.png" alt="" /> */}
-              </div>
+              </a>
             </motion.div>
           </div>
           <div
