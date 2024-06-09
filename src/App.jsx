@@ -1,4 +1,5 @@
-import React from "react";
+import {React} from "react";
+import { redirect } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Landing from "./components/Landing";
 import Marquee from "./components/Marquee";
@@ -7,6 +8,7 @@ import Eyes from "./components/Eyes";
 import Featured from "./components/Featured";
 import Footer from "./components/Footer";
 import LocomotiveScroll from "locomotive-scroll";
+
 
 function App() {
   const locomotiveScroll = new LocomotiveScroll();

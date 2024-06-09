@@ -1,5 +1,7 @@
 import { animate, motion } from "framer-motion";
 import { React, useState, useEffect } from "react";
+import { redirect } from "react-router-dom";
+
 
 const fadeInAnimationVariant = {
   initial: {
@@ -144,10 +146,10 @@ function Footer() {
             mohammeddhnojwala2005@gmail.com
           </a>
 
-          <a
-            href=""
+          <a 
+            href="https://www.linkedin.com/in/mohammeddhinojwala/"
             className="md:flex md:justify-center md:items-center md:px-1 md:w-[22vh]  md:h-[10vh] border-[1px] border-black   bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-            p-2 w-[20vh] flex justify-center 
+            p-2 w-[20vh] flex justify-center  
           "
           >
             <div className="w-[85%] h-[85%]  bg-[url('/assets/images/linkedin.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
@@ -157,7 +159,7 @@ function Footer() {
               alt=""
             /> */}
           </a>
-          <a
+          <a onClick={<redirect to="https://github.com/mohammedDhinojwala"/>}
             href=""
             className="md:flex md:justify-center md:items-center md:px-1  md:w-[22vh]  md:h-[10vh] border-[1px] border-black  bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
            p-2  w-[20vh] flex justify-center   bg-[url('/assets/images/github.jpg')] bg-cover
@@ -167,7 +169,7 @@ function Footer() {
 
           </a>
 
-          <a
+          <a onClick={<redirect to="https://www.instagram.com/_mxhammxd_10/?next=%2F"/>}
             href=""
             className="md:w-[22vh]  md:h-[10vh] md:flex md:justify-center md:items-center md:px-1 border-[1px] border-black   bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
            p-2 w-[20vh] flex justify-center   bg-[url('/assets/images/instagram.jpg')] bg-cover
@@ -176,7 +178,7 @@ function Footer() {
                         <div className="w-[85%] h-[85%]  bg-[url('/assets/images/instagram.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
 
           </a>
-          <a
+          <a onClick={<redirect to="https://www.facebook.com/mohammed.a.dhinojwala"/>}
             href=""
             className="md:flex md:justify-center md:items-center md:px-1  md:w-[22vh]  md:h-[10vh] border-[1px] border-black  bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
            p-2  w-[20vh] flex justify-center   

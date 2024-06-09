@@ -444,6 +444,13 @@ function Featured() {
               >
                 tailwaind
               </span>
+
+              <span
+                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+             w-[100%] p-2 "
+              >
+                tailwaind
+              </span>
             </div>
           </div>
         </div>
