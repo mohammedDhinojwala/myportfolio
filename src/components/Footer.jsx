@@ -149,10 +149,10 @@ function Footer() {
           <a 
             href="https://www.linkedin.com/in/mohammeddhinojwala/"
             className="md:flex md:justify-center md:items-center md:px-1 md:w-[22vh]  md:h-[10vh] border-[1px] border-black   bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-            p-2 w-[20vh] flex justify-center  
+            p-2 w-[18vh] h-[6vh] flex justify-center 
           "
           >
-            <div className="w-[85%] h-[85%]  bg-[url('/assets/images/linkedin.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
+            <div className="sm:w-[85%] sm:h-[85%] w-[100%] h-[100%]  bg-[url('/assets/images/linkedin.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
             {/* <img
               className="md:w-[25%] w-[25%]"
               src="/assets/images/linkedin.png"
@@ -162,29 +162,29 @@ function Footer() {
           <a 
             href="https://github.com/mohammedDhinojwala"
             className="md:flex md:justify-center md:items-center md:px-1  md:w-[22vh]  md:h-[10vh] border-[1px] border-black  bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-           p-2  w-[20vh] flex justify-center   bg-[url('/assets/images/github.jpg')] bg-cover
+           p-2  flex justify-center   bg-[url('/assets/images/github.jpg')] bg-cover  w-[18vh] h-[6vh] 
           "
           >
-                       <div className="w-[85%] h-[85%]  bg-[url('/assets/images/github.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
+                       <div className="sm:w-[85%] sm:h-[85%] w-[100%] h-[100%]  bg-[url('/assets/images/github.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
 
           </a>
 
           <a
             href="https://www.instagram.com/_mxhammxd_10/?next=%2F"
             className="md:w-[22vh]  md:h-[10vh] md:flex md:justify-center md:items-center md:px-1 border-[1px] border-black   bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-           p-2 w-[20vh] flex justify-center   bg-[url('/assets/images/instagram.jpg')] bg-cover
+           p-2  w-[18vh] h-[6vh]  flex justify-center   bg-[url('/assets/images/instagram.jpg')] bg-cover
           "
           >
-                        <div className="w-[85%] h-[85%]  bg-[url('/assets/images/instagram.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
+                        <div className="sm:w-[85%] sm:h-[85%] w-[100%] h-[100%]   bg-[url('/assets/images/instagram.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
 
           </a>
           <a
             href="https://www.facebook.com/mohammed.a.dhinojwala"
             className="md:flex md:justify-center md:items-center md:px-1  md:w-[22vh]  md:h-[10vh] border-[1px] border-black  bg-black rounded-full md:transition-all md:hover:bg-transparent hover:text-black 
-           p-2  w-[20vh] flex justify-center   
+           p-2   w-[18vh] h-[6vh]  flex justify-center   
           "
           >
-                        <div className="w-[85%] h-[85%]  bg-[url('/assets/images/facebook.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
+                        <div className="sm:w-[85%] sm:h-[85%] w-[100%] h-[100%]  bg-[url('/assets/images/facebook.png')] bg-contain bg-no-repeat bg-center rounded-lg "> </div>
 
           </a>
         </div>

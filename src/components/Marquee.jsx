@@ -3,7 +3,7 @@ import React from 'react'
 
 function Marquee() {
     return ( 
-    <div data-scroll data-scroll-speed='.1' className='lg:w-full lg:py-10 lg:ml-1 lg:rounded-2xl z-50 lg:text-zinc-200 bg-[#004D43]
+    <div data-scroll data-scroll-speed='.4' className='lg:w-full lg:py-10 lg:ml-1 lg:rounded-2xl z-50 lg:text-zinc-200 bg-[#004D43]
     w-full h-50  
     '>
       <div className='

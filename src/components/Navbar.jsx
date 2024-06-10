@@ -7,13 +7,13 @@ const { link } = Anchor;
 function Navbar() {
   return (
     <div
-      className="  flex-col
+      className="  flex-col justify-evenly align-middle
       items-right w-[100%] h-30
     lg:w-full lg:h-[11%] lg:px-20 lg:py-8 fixed  z-[999] font-['NeueMontreal-Regular (1)'] text-black lg:flex lg:justify-between lg:items-center
      md:flex md:flex-row
      w-full 
      
-    bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-10 
+     bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-10 
 
     rounded-b-lg
 
@@ -40,9 +40,9 @@ function Navbar() {
         </Anchor> */}
 
       <div
-        className="links  flex justify-center mb-1
+        className="links  flex align-middle mb-1 text-center  pt-2 justify-center
         lg:flex gap-10  text-black
-        lg:text-5xl
+        lg:text-5xl 
         "
       >
         {/* <motion.a  transition={{ ease :[0.22, 1, 0.36, 1]}} className=' text-lg text-white font-light capitalize cursor-pointer' upercase href="#mywork">Service</motion.a> */}

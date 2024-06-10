@@ -5,8 +5,8 @@ function About1() {
     <div
       id="about"
       data-scroll
-      data-scroll-speed="-.2"
-      className="w-full   bg-[#CDEA68] rounded-3xl overflow-hidden"
+      data-scroll-speed="-.3"
+      className="   bg-[#CDEA68] rounded-3xl overflow-hidden"
     >
       <h1
         className="text-black p-10 text-xl opacity-80 font-semibold
@@ -35,18 +35,18 @@ function About1() {
             <div className="w-[1vh] h-[1vh] rounded-full bg-white"></div>
           </button>
           <div
-            className="md:w-[80%] md:h-[80%] md:mt-14 md:rounded-2xl bg-gray-800 md:py-4 md:flex md:flex-row md:justify-center md:gap-10
-           w-[70%] h-[50%] rounded-2xl mt-5 flex flex-col justify-center items-center flex-wrap
+            className="md:w-[90%] md:h-[90%] md:mt-14 md:rounded-2xl bg-gray-800  md:flex md:flex-row md:justify-center md:gap-9 px-5 
+           w-[70%] h-[55%] rounded-2xl mt-5 flex flex-col justify-center items-center flex-wrap
         "
           >
             <div
-              className="md:w-[10%] h-full flex flex-col justify-center items-center
-          w-[40%] p-2
+              className="md:w-[10%]  flex flex-col justify-center items-center
+          w-[40%] p-2  m-5
          
           "
             >
               <div
-                className="w-[14vh] h-[15vh] p-3  rounded-2xl my-5 shadow-md shadow-black
+                className="sm:w-[14vh] sm:h-[15vh] w-[10vh] h-[10vh] p-3  rounded-2xl my-5 shadow-md shadow-black
               bg-[url('/assets/images/html.png')] bg-cover bg-center 
               "
               ></div>
@@ -61,12 +61,12 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2   
+          w-[40%] p-2  
+           
           "
             >
-             
               <div
-                className="w-[14vh] h-[15vh] p-3  rounded-2xl my-5 shadow-md shadow-black
+                className="sm:w-[14vh] sm:h-[15vh] w-[10vh] h-[10vh] p-3  rounded-2xl my-5 shadow-md shadow-black
               bg-[url('/assets/images/social.png')] bg-cover bg-center 
               "
               ></div>
@@ -81,12 +81,11 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2  
+          w-[40%] p-2  mr-5
           "
             >
-            
               <div
-                className="w-[14vh] h-[15vh] p-3  rounded-2xl my-5 shadow-md shadow-black
+                className="sm:w-[14vh] sm:h-[15vh] w-[10vh] h-[10vh] p-3  rounded-2xl my-5 shadow-md shadow-black
               bg-[url('/assets/images/js.png')] bg-cover bg-center 
               "
               ></div>
@@ -101,12 +100,11 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2   
+          w-[40%] p-2   mr-5
           "
             >
-             
               <div
-                className="w-[14vh] h-[15vh] p-3  rounded-2xl my-5 shadow-md shadow-black
+                className="sm:w-[14vh] sm:h-[15vh] w-[10vh] h-[10vh] p-3  rounded-2xl my-5 shadow-md shadow-black
               bg-[url('/assets/images/atom.png')] bg-cover bg-center 
               "
               ></div>
@@ -121,12 +119,11 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2  
+          w-[40%] p-2  mr-5
           "
             >
-              
               <div
-                className="w-[14vh] h-[15vh] p-3  rounded-2xl my-5 shadow-md shadow-black
+                className="sm:w-[14vh] sm:h-[15vh] w-[10vh] h-[10vh] p-3  rounded-2xl my-5 shadow-md shadow-black
               bg-[url('/assets/images/database.png')] bg-cover bg-center 
               "
               ></div>
@@ -141,12 +138,11 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2 
+          w-[40%] p-2 mr-5
           "
             >
-              
               <div
-                className="w-[14vh] h-[15vh] p-3  rounded-2xl my-5 shadow-md shadow-black
+                className="sm:w-[14vh] sm:h-[15vh] w-[10vh] h-[10vh] p-3  rounded-2xl my-5 shadow-md shadow-black
               bg-[url('/assets/images/nodejs.png')] bg-cover bg-center 
               "
               ></div>
@@ -161,16 +157,12 @@ function About1() {
 
             <div
               className="md:w-[10%] flex flex-col justify-center items-center
-          w-[40%] p-2   
+          w-[40%] p-2  mr-5
           "
             >
-              {/* <img
-                className="w-[90%] h-full p-3 bg-slate-400 rounded-2xl my-5 shadow-md shadow-black"
-                src="/assets/images/github.png"
-                alt=""
-              /> */}
+              
               <div
-                className="w-[14vh] h-[15vh] p-3  rounded-2xl my-5 shadow-md shadow-black
+                className="sm:w-[14vh] sm:h-[15vh] w-[10vh] h-[10vh] p-3  rounded-2xl my-5 shadow-md shadow-black
               bg-[url('/assets/images/github.png')] bg-cover bg-center 
               "
               ></div>
