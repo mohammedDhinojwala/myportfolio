@@ -141,16 +141,16 @@ function Featured() {
             "
             >
               <span
-                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
-              lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
+              lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex 
               "
               >
                 html
               </span>
               <span
-                className=" md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className="  transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -160,7 +160,7 @@ function Featured() {
                 css
               </span>
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className=" transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[16vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -169,7 +169,7 @@ function Featured() {
                 js
               </span>
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className="transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -178,7 +178,7 @@ function Featured() {
                 react
               </span>
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className="transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -187,7 +187,7 @@ function Featured() {
                 node js
               </span>
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className=" transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -197,7 +197,7 @@ function Featured() {
               </span>
 
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className=" transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -216,7 +216,7 @@ function Featured() {
             "
             >
               <span
-                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                 w-[100%] p-2 
                 md:w-[12vh] md:h-[5vh] md:text-sm
                 lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -224,7 +224,7 @@ function Featured() {
                 html
               </span>
               <span
-                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                  w-[100%] p-2 
                  md:w-[12vh] md:h-[5vh] md:text-sm
                  lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -232,7 +232,7 @@ function Featured() {
                 css
               </span>
               <span
-                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                  w-[100%] p-2 
                  md:w-[12vh] md:h-[5vh] md:text-sm
                  lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -240,7 +240,7 @@ function Featured() {
                 js
               </span>
               <span
-                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                  w-[100%] p-2 
                  md:w-[12vh] md:h-[5vh] md:text-sm
                  lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -248,7 +248,7 @@ function Featured() {
                 Gsap
               </span>
               <span
-                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                 w-[100%] p-2 
                 md:w-[12vh] md:h-[5vh] md:text-sm
                 lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -367,7 +367,7 @@ function Featured() {
             "
             >
               <span
-                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -376,7 +376,7 @@ function Featured() {
                 html
               </span>
               <span
-                className=" md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className="transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -386,7 +386,7 @@ function Featured() {
                 css
               </span>
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className=" transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[16vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -395,7 +395,7 @@ function Featured() {
                 js
               </span>
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className="transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -404,7 +404,7 @@ function Featured() {
                 react
               </span>
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className=" transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -413,7 +413,7 @@ function Featured() {
                 node js
               </span>
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className=" transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -423,7 +423,7 @@ function Featured() {
               </span>
 
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className=" transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -433,7 +433,7 @@ function Featured() {
               </span>
 
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className=" transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -443,7 +443,7 @@ function Featured() {
               </span>
 
               <span
-                className="md:w-[25vh] md:h-[5vh] transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3
+                className="transition-all hover:bg-transparent hover:text-black  border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3
               w-[100%] p-2 
               md:w-[12vh] md:h-[5vh] md:text-sm
               lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center
@@ -461,7 +461,7 @@ function Featured() {
             "
             >
               <span
-                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                 w-[100%] p-2 
                 md:w-[12vh] md:h-[5vh] md:text-sm
                 lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -469,7 +469,7 @@ function Featured() {
                 html
               </span>
               <span
-                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                  w-[100%] p-2 
                  md:w-[12vh] md:h-[5vh] md:text-sm
                  lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -477,7 +477,7 @@ function Featured() {
                 css
               </span>
               <span
-                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                  w-[100%] p-2 
                  md:w-[12vh] md:h-[5vh] md:text-sm
                  lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -485,7 +485,7 @@ function Featured() {
                 js
               </span>
               <span
-                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                 className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                  w-[100%] p-2 
                  md:w-[12vh] md:h-[5vh] md:text-sm
                  lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -493,7 +493,7 @@ function Featured() {
                 Gsap
               </span>
               <span
-                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                 w-[100%] p-2 
                 md:w-[12vh] md:h-[5vh] md:text-sm
                 lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -502,7 +502,7 @@ function Featured() {
               </span>
               
               <span
-                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                 w-[100%] p-2 
                 md:w-[12vh] md:h-[5vh] md:text-sm
                 lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -511,7 +511,7 @@ function Featured() {
               </span>
 
               <span
-                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  flex-wrap items-center text-lg md:leading-3 
+                className="  transition-all hover:bg-transparent hover:text-black   border-black border-[1px] bg-black rounded-full flex justify-center  items-center text-lg md:leading-3 
                 w-[100%] p-2 
                 md:w-[12vh] md:h-[5vh] md:text-sm
                 lg:w-[19vh] lg:h-[5vh] lg:text-xl lg:flex lg:items-center"
@@ -535,15 +535,4 @@ function Featured() {
 }
 
 export default Featured;
-
-
-// html
-// css
-// js
-// react
-// node js
-// Bootstrap
-// Express js
-// multer js
-// Mongo DB
 
