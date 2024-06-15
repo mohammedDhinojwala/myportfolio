@@ -80,7 +80,7 @@ function Featured() {
                   ))}
                 </div>
               </div>
-              <a href="https://github.com/mohammedDhinojwala/NEWAPP/" 
+              <a href="https://www.linkedin.com/posts/mohammeddhinojwala_newsmob-react-javascript-activity-7207827758251405312-2t-P?utm_source=share&utm_medium=member_desktop" 
               className="card w-[100%] h-[100%] rounded-2xl bg-[#ffffff] flex justify-center  items-center mb-10 md:w-full md:h-full bg-[url('/assets/images/newsapp.jpg')] bg-auto bg-center bg-no-repeat
              
               ">
