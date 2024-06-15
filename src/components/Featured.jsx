@@ -286,12 +286,28 @@ function Featured() {
             "
             >
 <div
-                className="absolute flex justify-center items-center overflow-hidden left-[2.9%] top-[2vh] text-8xl text-black z-[9] font-semibold  leading-none tracking-tighter 
+                className="absolute flex flex-col justify-between items-start overflow-hidden left-[2.9%] top-[2vh] text-8xl text-black z-[9] font-semibold  leading-none tracking-tighter 
               
               "
               >
-                <div className="flex overflow-hidden">
+                <div className="flex overflow-hidden h-40">
                   {"pintrest".split("").map((item, index,f) => (
+                    <motion.span
+                      initial={{ y: "100%" }}
+                      animate={cards[0]}
+                      transition={{
+                        ease: [0.22, 1, 0.36, 1],
+                        delay: index * 0.01,
+                      }}
+                      key={f}
+                      className="inline-block "
+                    >
+                      {item}
+                    </motion.span>
+                  ))}
+                </div>
+                <div className="sec flex overflow-hidden h-40  mt-26">
+                  {"coming_soon".split("").map((item, index,f) => (
                     <motion.span
                       initial={{ y: "100%" }}
                       animate={cards[0]}
