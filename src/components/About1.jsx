@@ -12,9 +12,7 @@ function About1() {
         className="text-black p-10 text-xl opacity-80 font-semibold
       md:text-black md:p-20 md:text-5xl md:opacity-80"
       >
-        "Hey folks! I'm MOHAMMED, a front-end ninja on the path to MERN mastery.
-        Armed with React.js as my creative tool, I sculpt mind-blowing,
-        interactive websites that leave a lasting impression."
+        "Hello everyone! I'm Mohammed, a dedicated front-end developer on the journey to mastering the MERN stack. With React.js as my primary tool, I craft engaging and interactive websites designed to create memorable user experiences."
       </h1>
 
       <div className="md:w-half border-t-[1px] md:pb-12 md:ml-10 md:mr-20 mr-4 ml-4 border-[#1a21027e] flex gap-10">
